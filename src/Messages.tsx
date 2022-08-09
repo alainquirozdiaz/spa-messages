@@ -19,9 +19,9 @@ const Messages = () => {
     console.log('MSG', msg)
   }
 
-  function EditMessage(msg: string) {
+  // function EditMessage(msg: string) {
     
-  }
+  // }
 
   function AddMessage() {
 	const addMsg:string = newMessage as string
